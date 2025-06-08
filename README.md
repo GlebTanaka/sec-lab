@@ -7,6 +7,7 @@ This repo contains small hands-on projects, practice tasks, and notes related to
 - `recon/` – Scripts and tools for information gathering and scanning
 - `web-attacks/` – Local apps with common web vulnerabilities (XSS, SQLi, etc.)
 - `ctf-practice/` – Write-ups and flags from TryHackMe, HackTheBox, VulnHub, etc.
+- `scripts/` - Custom tools (e.g. port scanner, directory bruteforcers)
 - `tools/` – Small utilities and helper scripts (port scanner, hash cracker, etc.)
 - `notes/` – Reference materials, cheat sheets, and personal notes
 
